@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqQTB2uSd2/BpkSdISmTNPsahzl8VtdzfJLIS/UJGoxyZQsqiqfgCJfJGsXZM81b4UM0Us29DgrENOMQOIfr+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\projects\\.net\\MyFirstAppVSC\\MyFirstAppVSC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
